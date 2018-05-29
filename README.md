@@ -1,2 +1,2 @@
 # FyiReporting-Docs
-Original documentation for FyiReporting taken from the defunct site http://fyireporting.com
+Original documentation for FyiReporting taken from the defunct site http://fyireporting.com, See the wiki.
